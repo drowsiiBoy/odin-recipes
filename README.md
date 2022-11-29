@@ -1,0 +1,1 @@
+This is my first Odin Project project that will have me making a recipe website. Making this website will involve showcasing all of the skills I have learned so far in the curriculum (HTML and Git).
