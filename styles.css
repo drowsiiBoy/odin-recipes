@@ -1,9 +1,25 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
 }
 
 .index_body {
     background-color: rgb(14, 164, 223);
+}
+
+.l_body {
+    background-color: rgb(204, 70, 17);
+}
+
+.t_body {
+    background-color:  rgb(202, 178, 41);
+}
+
+.p_body {
+    background-color: rgb(133, 77, 14);
 }
 
 .index_h1 {
@@ -16,6 +32,3 @@
     font-weight: bold;
 }
 
-a:link {
-    text-decoration: none;
-}
